@@ -4497,6 +4497,54 @@
 			)
 		)
 	)
+	(sheet
+		(at 229.87 137.16)
+		(size 43.18 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0dfa76b7-78c0-45f8-bb90-7a53bbb8c4a0")
+		(property "Sheetname" "Chris"
+			(at 229.87 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 229.87 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Output" input
+			(at 273.05 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6f86d713-42ac-41f9-b203-3434f086c3a6")
+		)
+		(instances
+			(project "PCB Template"
+				(path "/2108ba15-8357-4ea6-b863-64720f006d55"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
