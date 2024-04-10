@@ -1,0 +1,44 @@
+### Footprint positions - created on Fri Sep 15 14:05:41 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                PosX       PosY       Rot  Side
+C1        150p                 C_0201_0603Metric                  140.5000   -91.5000  180.0000  bottom
+C2        150p                 C_0201_0603Metric                  137.7000   -91.5000  180.0000  bottom
+C3        150p                 C_0201_0603Metric                  137.7000   -92.7000  180.0000  bottom
+C4        150p                 C_0201_0603Metric                  140.5000   -92.7000  180.0000  bottom
+C5        150p                 C_0201_0603Metric                  137.7000  -105.0000    0.0000  bottom
+C6        150p                 C_0201_0603Metric                  137.7000  -103.8000    0.0000  bottom
+C7        100n                 C_0201_0603Metric                  139.5000   -82.4000   90.0000  bottom
+C8        10u                  C_0201_0603Metric                  138.6000   -82.4000  -90.0000  bottom
+C9        100n                 C_0201_0603Metric                  137.7000   -82.4000  -90.0000  bottom
+C10       100n                 C_0201_0603Metric                  139.5000   -84.0000   90.0000  bottom
+C11       10n                  C_0201_0603Metric                  138.6000   -84.0000  -90.0000  bottom
+C12       2p                   C_0201_0603Metric                  139.8525   -97.4500    0.0000  bottom
+C13       2p                   C_0201_0603Metric                  139.8525  -100.0500    0.0000  bottom
+C14       27p                  C_0201_0603Metric                  144.4000  -102.4800  -90.0000  bottom
+C15       27p                  C_0201_0603Metric                  146.1000  -102.5000   90.0000  bottom
+C26       10u                  C_0201_0603Metric                  152.3000   -90.8800  -90.0000  bottom
+C29       100n                 C_0201_0603Metric                  164.9250  -107.1800   90.0000  bottom
+J1        Micro_SD_Card        microSD_HC_Hirose_DM3AT-SF-PEJM5   161.9000   -93.3250  -90.0000  bottom
+P1        DF40C-50DS-0.4V(51)  HRS_DF40C-50DS-0.4V(51)            150.0000  -113.9000  180.0000  bottom
+R1        560                  R_0201_0603Metric                  140.5000   -90.7000  180.0000  bottom
+R2        560                  R_0201_0603Metric                  137.7000   -90.7000  180.0000  bottom
+R3        560                  R_0201_0603Metric                  137.7000   -93.5000  180.0000  bottom
+R4        560                  R_0201_0603Metric                  140.5000   -93.5000  180.0000  bottom
+R5        560                  R_0201_0603Metric                  137.7000  -105.8000    0.0000  bottom
+R6        560                  R_0201_0603Metric                  137.7000  -103.0000    0.0000  bottom
+R7        4k7                  R_0201_0603Metric                  152.3000   -87.6500  -90.0000  bottom
+R8        4k7                  R_0201_0603Metric                  152.3000   -89.3200  -90.0000  bottom
+R9        4k7                  R_0201_0603Metric                  152.3000   -92.4800   90.0000  bottom
+R10       4k7                  R_0201_0603Metric                  152.3000   -94.0800   90.0000  bottom
+R11       4k7                  R_0201_0603Metric                  152.3000   -95.6800   90.0000  bottom
+R12       4k7                  R_0201_0603Metric                  152.3000   -97.2800   90.0000  bottom
+R18       4k7                  R_0201_0603Metric                  154.2000   -82.1000  -90.0000  bottom
+R21       4k7                  R_0201_0603Metric                  164.9250  -105.6800   90.0000  bottom
+R22       4k7                  R_0201_0603Metric                  164.0250  -105.6800  -90.0000  bottom
+R23       4k7                  R_0201_0603Metric                  163.1250  -105.6800  -90.0000  bottom
+R24       56                   R_0201_0603Metric                  163.1250  -107.1800   90.0000  bottom
+R25       0                    R_0201_0603Metric                  155.1000   -82.1000   90.0000  bottom
+R26       0                    R_0201_0603Metric                  153.3000   -82.1000  -90.0000  bottom
+## End

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Skripsie")(type "KiCad")(uri "${KIPRJMOD}/Skripsie/Skripsie.kicad_sym")(options "")(descr ""))
+  (lib (name "ADF6-10-03.5-L-4-2-A-TR")(type "KiCad")(uri "C:/Users/nielt/OneDrive/Desktop/Skripsie 2.0/5. Werk/5. Week 5/Hupmiddels/ADF6-10-03.5-L-4-2-A-TR/ADF6-10-03.5-L-4-2-A-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "DF40C-50DS-0.4V_51_")(type "KiCad")(uri "C:/Users/nielt/OneDrive/Desktop/Skripsie 2.0/5. Werk/6. Week 6/Hulpmiddels/DF40C-50DS-0.4V_51_/DF40C-50DS-0.4V_51_.kicad_sym")(options "")(descr ""))
+  (lib (name "JS102011JAQN")(type "KiCad")(uri "C:/Users/nielt/OneDrive/Desktop/Skripsie 2.0/5. Werk/6. Week 6/Hulpmiddels/JS102011JAQN/JS102011JAQN.kicad_sym")(options "")(descr ""))
+  (lib (name "SAMTEC-SMH-110-02-X-D")(type "KiCad")(uri "C:/Users/nielt/OneDrive/Desktop/Skripsie 2.0/5. Werk/7. Week 7/Hulpmiddels/SAMTEC-SMH-110-02-X-D/SAMTEC-SMH-110-02-X-D.kicad_sym")(options "")(descr ""))
+)

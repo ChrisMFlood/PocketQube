@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESL_PQ")(type "KiCad")(uri "${KIPRJMOD}/ESL_PQ.kicad_sym")(options "")(descr ""))
+)
